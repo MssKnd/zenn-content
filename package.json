@@ -6,6 +6,6 @@
   "author": "Masashi Kondo <mss.knd@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "zenn-cli": "^0.1.109"
+    "zenn-cli": "^0.1.114"
   }
 }
